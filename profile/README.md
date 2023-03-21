@@ -1,6 +1,6 @@
 # <img src="https://github.com/exTHmUI/android/blob/Tenshi/logo.png" width="400"> #
 
-## EN | [CN](https://github.com/exTHmUI/.github/profile/README_CN.md) ##
+## EN | [CN](https://github.com/exTHmUI/.github/blob/master/profile/README_CN.md) ##
 
 > Welcome to exTHmUI Android source repositories
 
